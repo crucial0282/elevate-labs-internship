@@ -35,6 +35,3 @@ Perform a SYN scan using Nmap to identify open ports on the local system.
 
 ## Outcome:
 Learned to scan for open ports using Nmap, useful in network monitoring and SOC operations.
-
-
-![Screenshot 2025-05-26 142110](https://github.com/user-attachments/assets/a439d728-0850-4c95-b1e1-68740bb7c973)
