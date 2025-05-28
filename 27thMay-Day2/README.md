@@ -1,8 +1,8 @@
-Phishing Email Analysis Report
-Subject: Microsoft Account Password Change Notification
-Date & Time Received: 4:09 PM
-Receiver By: ethan@hooksecurity.co
-Sender Email Address: support@msupdate.net
+--> Phishing Email Analysis Report
+--> Subject: Microsoft Account Password Change Notification
+--> Date & Time Received: 4:09 PM
+--> Receiver By: ethan@hooksecurity.co
+--> Sender Email Address: support@msupdate.net
 
 
 ## 1. Overview
@@ -24,5 +24,5 @@ The email lacks branding elements such as Microsoft logos, dynamic content, and 
 ### e. Target Context
 The recipient's email domain (hooksecurity.co) suggests this may be a phishing awareness simulation targeted at cybersecurity professionals to evaluate response behavior.
 
-##3. Conclusion
+## 3. Conclusion
 This email is a phishing attempt crafted to impersonate Microsoft and deceive the recipient into clicking malicious links. It contains multiple red flags including a non-official sender domain, urgency, generic formatting, and suspicious call-to-action prompts.
