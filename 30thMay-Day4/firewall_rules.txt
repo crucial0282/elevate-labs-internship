@@ -1,0 +1,12 @@
+sudo ufw status
+[sudo] password for crucial:
+Status: active
+
+To                         Action      From
+--                         ------      ----
+9392/tcp                   DENY        Anywhere
+22                         ALLOW       Anywhere
+23                         DENY        Anywhere
+9392/tcp (v6)              DENY        Anywhere (v6)
+22 (v6)                    ALLOW       Anywhere (v6)
+23 (v6)                    DENY        Anywhere (v6)
