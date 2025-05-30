@@ -1,5 +1,5 @@
 sudo ufw status
-[sudo] password for crucial:
+
 Status: active
 
 To                         Action      From
