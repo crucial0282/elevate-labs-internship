@@ -1,4 +1,4 @@
-# Setup Firewall Configuration and Testing it in Linux
+#  Setup and Use a Firewall on Linux
 
 ## Overview
 This report details the steps taken to configure and test the firewall on a Linux system using UFW (Uncomplicated Firewall). The goal was to manage inbound traffic by blocking unwanted ports (specifically Telnet on port 23) and allowing essential services (such as SSH on port 22). Logging was enabled to monitor firewall activity.
