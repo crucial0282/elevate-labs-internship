@@ -1,12 +1,13 @@
-sudo ufw status
-
 Status: active
+Logging: on (low)
+Default: deny (incoming), allow (outgoing), disabled (routed)
+New profiles: skip
 
 To                         Action      From
 --                         ------      ----
-9392/tcp                   DENY        Anywhere
-22                         ALLOW       Anywhere
-23                         DENY        Anywhere
-9392/tcp (v6)              DENY        Anywhere (v6)
-22 (v6)                    ALLOW       Anywhere (v6)
-23 (v6)                    DENY        Anywhere (v6)
+9392/tcp                   DENY IN     Anywhere
+22                         ALLOW IN    Anywhere
+23                         DENY IN     Anywhere
+9392/tcp (v6)              DENY IN     Anywhere (v6)
+22 (v6)                    ALLOW IN    Anywhere (v6)
+23 (v6)                    DENY IN     Anywhere (v6)
