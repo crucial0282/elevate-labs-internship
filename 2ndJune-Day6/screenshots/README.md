@@ -1,4 +1,4 @@
-### **Best Practices Learned:**
+## Best Practices Learned:
 
 1. **Use at least 12–16 characters.**
 2. **Mix uppercase, lowercase, numbers, and symbols.**
@@ -8,7 +8,7 @@
 
 ---
 
-### **Common Password Attacks:**
+## Common Password Attacks:
 
 * **Brute Force:** Tries every possible combination. Long, complex passwords are harder to crack.
 * **Dictionary Attacks:** Tries common words or leaked passwords. Avoid using real words.
@@ -17,10 +17,6 @@
 
 ---
 
-### **Conclusion:**
+## Conclusion:
 
 Password complexity greatly increases resistance to attacks. The most secure passwords are long, random, and diverse in character types. Tools like PasswordMeter help visualize weaknesses and improve password hygiene.
-
----
-
-Let me know if you'd like this turned into a downloadable PDF or Word file for submission.
