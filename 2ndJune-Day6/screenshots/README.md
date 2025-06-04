@@ -6,7 +6,7 @@
 4. **Place numbers/symbols in the middle**, not just at the ends.
 5. **Avoid repeating or sequential characters** (like "aaa", "123", "abc").
 
----
+
 
 ## Common Password Attacks:
 
@@ -15,7 +15,7 @@
 * **Credential Stuffing:** Uses leaked username-password combos. Always use unique passwords for each account.
 * **Social Engineering:** Based on guessing from personal information. Avoid birthdays, pet names, etc.
 
----
+
 
 ## Conclusion:
 
