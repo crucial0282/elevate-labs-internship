@@ -4,7 +4,7 @@
 To understand the elements of a strong password by creating and evaluating passwords of varying complexity using an online password strength checker.
 
 ## Tool Used:
-PasswordMeter.com
+[PasswordMeter.com](https://passwordmeter.com/)
 
 ## Passwords Tested:
 1. Password: (*$^&*(2)(sdhASDA)
